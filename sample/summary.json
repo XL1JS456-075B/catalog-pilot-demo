@@ -1,0 +1,21 @@
+{
+  "accepted_rows": 105,
+  "currency": "USD",
+  "duplicate_rows": 2,
+  "image_rights_status": "declarations_only_not_independently_verified",
+  "input_rows": 120,
+  "input_sha256": "f13739097453ec98389cbc7d6c5b2ab7cb0a4efe4c57b7e152e1c8794ca312a2",
+  "issues_rows": 150,
+  "master_rows": 105,
+  "output_sha256": {
+    "issues.csv": "a33358e35e6fd889bf850d1feb275e5301a00f74bf528d551a324509d2299228",
+    "master.csv": "4337a97aebf2934c1473b69e1c73782604dfd443df6c8db952e0a1adde6e68c6",
+    "shopify.csv": "791886718653b9e6655f185930de5329fdb9a507f7cb1464df1cbf59718c1507"
+  },
+  "quarantined_rows": 13,
+  "rejected_rows": 15,
+  "schema_version": 1,
+  "shopify_products": 94,
+  "shopify_status": "candidate_format_only_not_imported",
+  "source_status": "input_declared_not_fetched"
+}
