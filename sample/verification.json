@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "check_count": 2506,
+  "counts": {
+    "accepted_rows": 105,
+    "distinct_synthetic_skus": 100,
+    "duplicate_rows": 2,
+    "input_rows": 120,
+    "issues_rows": 150,
+    "master_rows": 105,
+    "quarantined_rows": 13,
+    "rejected_rows": 15,
+    "shopify_products": 94
+  },
+  "independent_method": "Hand-labelled fixture record acceptance; no producer imports.",
+  "input_sha256": "f13739097453ec98389cbc7d6c5b2ab7cb0a4efe4c57b7e152e1c8794ca312a2",
+  "output_sha256": {
+    "issues.csv": "a33358e35e6fd889bf850d1feb275e5301a00f74bf528d551a324509d2299228",
+    "master.csv": "4337a97aebf2934c1473b69e1c73782604dfd443df6c8db952e0a1adde6e68c6",
+    "shopify.csv": "791886718653b9e6655f185930de5329fdb9a507f7cb1464df1cbf59718c1507",
+    "summary.json": "42320f74e7f81b6bebd50cd75a1b2be3337ffd3dadae6655897690d7323d637f"
+  },
+  "check_areas": [
+    "fixture provenance",
+    "exact identifiers",
+    "per-field source comparison",
+    "hand-labelled quarantine/duplicates",
+    "draft products",
+    "tags/handles",
+    "rights gating",
+    "formula defense",
+    "counts",
+    "content hashes"
+  ],
+  "tests_passed": 31,
+  "disclosures": [
+    "Synthetic demonstration only",
+    "No live Shopify import",
+    "No independent image-rights verification",
+    "No sales or revenue claimed"
+  ]
+}
