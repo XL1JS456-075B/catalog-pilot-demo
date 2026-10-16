@@ -1,0 +1,151 @@
+record,sku,severity,code,field,detail
+1,"""00001""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+2,"""00002""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+3,"""00003""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+4,"""00004""",warning,spreadsheet_escaped,title,Descriptive field receives a leading apostrophe if exported; original remains in input.
+4,"""00004""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+5,"""00005""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+6,"""00006""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+7,"""00007""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+8,"""00008""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+9,"""00009""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+10,"""00010""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+11,"""00011""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+12,"""00012""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+13,"""00013""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+14,"""00014""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+15,"""00015""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+16,"""00016""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+17,"""00017""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+18,"""00018""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+19,"""00019""",warning,missing_optional,image_url,Not supplied; not inferred or fetched.
+19,"""00019""",warning,missing_optional,image_rights,Not supplied; not inferred or fetched.
+20,"""00020""",warning,image_withheld,image_url,Image URL withheld from both exports: no allowed rights declaration.
+21,"""00021""",warning,image_withheld,image_url,Image URL withheld from both exports: no allowed rights declaration.
+22,"""00022""",warning,missing_optional,image_url,Not supplied; not inferred or fetched.
+22,"""00022""",warning,missing_optional,image_rights,Not supplied; not inferred or fetched.
+23,"""00023""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+24,"""00024""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+25,"""00025""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+26,"""00026""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+27,"""00027""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+28,"""00028""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+29,"""00029""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+30,"""00030""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+31,"""00031""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+32,"""00032""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+33,"""00033""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+34,"""00034""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+35,"""00035""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+36,"""00036""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+37,"""00037""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+38,"""00038""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+39,"""00039""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+40,"""00040""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+41,"""00041""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+42,"""00042""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+43,"""00043""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+44,"""00044""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+45,"""00045""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+46,"""00046""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+47,"""00047""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+48,"""00048""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+49,"""00049""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+50,"""00050""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+51,"""00051""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+52,"""00052""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+53,"""00053""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+54,"""00054""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+55,"""00055""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+56,"""00056""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+57,"""00057""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+58,"""00058""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+59,"""00059""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+60,"""00060""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+61,"""00061""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+62,"""00062""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+63,"""00063""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+64,"""00064""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+65,"""00065""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+66,"""00066""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+67,"""00067""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+68,"""00068""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+69,"""00069""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+70,"""00070""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+71,"""00071""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+72,"""00072""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+73,"""00073""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+74,"""00074""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+75,"""00075""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+76,"""00076""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+77,"""00077""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+78,"""00078""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+79,"""00079""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+80,"""00080""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+81,"""00081""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+82,"""00082""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+83,"""00083""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+84,"""00084""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+85,"""00085""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+86,"""00086""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+87,"""00087""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+88,"""00088""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+89,"""00089""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+90,"""00090""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+91,"""00091""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+92,"""00092""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+93,"""00093""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+94,"""00094""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+95,"""00095""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+96,"""00096""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+97,"""00097""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+98,"""00098""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+99,"""00099""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+100,"""00100""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+101,"""00001""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+102,"""00002""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+103,"""00003""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+104,"""00004""",warning,spreadsheet_escaped,title,Descriptive field receives a leading apostrophe if exported; original remains in input.
+104,"""00004""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+105,"""00005""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+106,"""00006""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+107,"""00007""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+108,"""00008""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+109,"""00009""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+110,"""00010""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+111,"""00011""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+112,"""00012""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+113,"""00013""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+114,"""00014""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+115,"""00015""",error,invalid_price,price,Use a nonnegative finite decimal: 1-12 integer digits and optionally 1-6 fractional digits; no exponent.
+115,"""00015""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+116,"""00016""",error,invalid_price,price,Use a nonnegative finite decimal: 1-12 integer digits and optionally 1-6 fractional digits; no exponent.
+116,"""00016""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+117,"""00017""",error,invalid_currency,currency,Supported exact currency codes: USD EUR GBP CAD AUD JPY.
+117,"""00017""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+118,"""00018""",error,invalid_text,title,Required text is blank or contains prohibited control characters.
+118,"""00018""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+119,"""00019""",warning,missing_optional,source_url,Not supplied; not inferred or fetched.
+119,"""00019""",warning,missing_optional,observed_at,Not supplied; not inferred or fetched.
+119,"""00019""",warning,missing_optional,image_url,Not supplied; not inferred or fetched.
+119,"""00019""",warning,missing_optional,image_rights,Not supplied; not inferred or fetched.
+120,"""""",error,invalid_sku,sku,Exact identifier rejected; must start alphanumeric and contain only alphanumerics . _ - (max 128).
+120,"""""",warning,image_rights_declared,image_rights,Input declaration only; rights and image have NOT been independently verified.
+111,"""00011""",error,duplicate,"sku,model",Exact repeated record excluded; first identical record retained.
+112,"""00012""",error,duplicate,"sku,model",Exact repeated record excluded; first identical record retained.
+13,"""00013""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+113,"""00013""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+14,"""00014""",error,sku_conflict,title,All rows of this exact SKU quarantined; product facts differ.
+114,"""00014""",error,sku_conflict,title,All rows of this exact SKU quarantined; product facts differ.
+15,"""00015""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+15,"""00015""",error,sku_quarantined,sku,Another row of the same exact SKU failed validation.
+115,"""00015""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+16,"""00016""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+16,"""00016""",error,sku_quarantined,sku,Another row of the same exact SKU failed validation.
+116,"""00016""",error,sku_conflict,price,All rows of this exact SKU quarantined; product facts differ.
+17,"""00017""",error,sku_conflict,currency,All rows of this exact SKU quarantined; product facts differ.
+17,"""00017""",error,sku_quarantined,sku,Another row of the same exact SKU failed validation.
+117,"""00017""",error,sku_conflict,currency,All rows of this exact SKU quarantined; product facts differ.
+18,"""00018""",error,sku_conflict,title,All rows of this exact SKU quarantined; product facts differ.
+18,"""00018""",error,sku_quarantined,sku,Another row of the same exact SKU failed validation.
+118,"""00018""",error,sku_conflict,title,All rows of this exact SKU quarantined; product facts differ.
